@@ -82,7 +82,7 @@ insurance-claims-agent/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/autonomous-insurance-claims-agent.git
+https://github.com/sripravallika05/insurance-claims-agent
 ```
 
 ## Navigate To Project
