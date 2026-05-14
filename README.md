@@ -174,8 +174,8 @@ POST /process-claim
 ## Swagger UI
 
 _Add screenshots here_
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/f3126d48-3832-4af3-8a28-02f853feb335" />
 
----
 
 # Learning Outcomes
 
