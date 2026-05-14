@@ -1,0 +1,5 @@
+POLICY_NUMBER_PATTERN = r"POLICY NUMBER[:\s]+([A-Z0-9-]+)"
+
+DATE_PATTERN = r"(\d{2}/\d{2}/\d{4})"
+
+ESTIMATE_PATTERN = r"ESTIMATE AMOUNT[:\s]+\$?([\d,]+)"
