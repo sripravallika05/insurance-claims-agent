@@ -1,6 +1,6 @@
 # Autonomous Insurance Claims Processing Agent
 
-AI-powered backend system for processing insurance claim PDFs using FastAPI, document extraction, validation, and automated routing workflows
+AI-powered backend system for processing insurance claim PDFs using FastAPI, document extraction, validation, and automated routing workflows.
 
 ---
 
